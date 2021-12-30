@@ -31,10 +31,8 @@ My innate interest in Artificial Intelligence began when I found myself fascinat
  
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-<!- [Mathematical Explaination of K-Modes Clustering ](https://aihubprojects.com/k-modes-clustering-algorithm-mathematical-scratch-implementation/)
-- [K-Means Scratch Implemrntation Python](https://aihubprojects.com/k-means-clustering-from-scratch-python/)
-- [Visualizing & Prediction Corona cases](https://aihubprojects.com/visualizing-predicting-corona-cases/)
-- [Machine Learning From Scratch](https://aihubprojects.com/machine-learning-from-scratch-python/) --!>
+- [How to deal with the ‘Date’ variable in columns (via python)?](https://medium.com/@uprety.ishparsh/how-to-deal-with-the-date-variable-in-columns-via-python-58bb97b222d7)
+
 <!-- BLOG-POST-LIST:END -->
  
  
