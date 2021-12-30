@@ -12,30 +12,29 @@
 <div style="text-align: justify">
  
  
-I'm  a Computer Engineer 🚀 currently, I'm an associate ML Engineer at Bottle Technology. 
+I'm  a Computer Engineer 🚀 currently, I'm a ML Engineer Intern at Bottle Technology. 
 My innate interest in Artificial Intelligence began when I found myself fascinated by the projects done by seniors in one of the hackathons I attended. Curiosity is the first and the foremost quality which drives a person towards learning new things. My interest, passion, dedication in learning AI, enabled me to acquire significant knowledge on Python and mathematics behind every ML algorithm.
  
-I substantiated my knowledge by opening an instagram page and a website “aihubprojects.com” based on AI. My prodigious appetite for guiding others started from the moment I published my first python ebook on Amazon Kindle. This thrust spurred me to work assiduously and I published Machine Learning from Scratch tutorial series on my website. In the meantime, I created tutorials on various projects and shared them on Website as well as Instagram.
- 
+
   </div>
  
-- 🔭 Admin, Content writer on aihubprojects.com
-- 🌱 Published Kindle eBook on Python
-- 📫 Published Machine Learning From Scratch on Kindle
+- 🔭 Worked with different Machine Learning model.
+- 🌱 Worked as Machine Learning Intern.
+- 📫 Currently working on OCR project.
 - ⚡  Marketing collaboration with various teams
  
 [Download Resume](https://ishparshuprety.com.np)
  
-![Diwas's github stats](https://github-readme-stats.vercel.app/api?username=ishparsh&count_private=true&show_icons=true&theme=dark)<a href="https://github.com/ishparsh">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishparsh&layout=compact&theme=dark)](https://github.com/ishparsh)</a>
+![Ishparsh's github stats](https://github-readme-stats.vercel.app/api?username=ishparsh&count_private=true&show_icons=true&theme=dark)<a href="https://github.com/ishparsh">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishparsh&layout=compact&theme=dark)](https://github.com/ishparsh)</a>
  
  
  
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Mathematical Explaination of K-Modes Clustering ](https://aihubprojects.com/k-modes-clustering-algorithm-mathematical-scratch-implementation/)
+<!- [Mathematical Explaination of K-Modes Clustering ](https://aihubprojects.com/k-modes-clustering-algorithm-mathematical-scratch-implementation/)
 - [K-Means Scratch Implemrntation Python](https://aihubprojects.com/k-means-clustering-from-scratch-python/)
 - [Visualizing & Prediction Corona cases](https://aihubprojects.com/visualizing-predicting-corona-cases/)
-- [Machine Learning From Scratch](https://aihubprojects.com/machine-learning-from-scratch-python/)
+- [Machine Learning From Scratch](https://aihubprojects.com/machine-learning-from-scratch-python/) --!>
 <!-- BLOG-POST-LIST:END -->
  
  
